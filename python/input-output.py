@@ -1,0 +1,10 @@
+jina=input("enter your name:")
+nambari=int(input("enter first number:"))
+nambari2=int(input("enter second numbrer:"))
+print("the sum of {nambari} and {nambari2}",{nambari+nambari2})
+print(f"the product of {nambari} and {nambari2} is {nambari*nambari2}")
+print("the difference of {nambari} and {nambari2}",{nambari-nambari2})
+print("the quotation of {nambari} and {nambari2}",{nambari/nambari2})
+
+print(f"welcome {jina} at emobilis")
+print(f"the sum of {nambari} and {nambari2} is {nambari+nambari2}")
